@@ -19,7 +19,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 #
 ### SnapShot
 
-<img width="100%" alt="To-Do List" src="WeatherSS.png" />
+<img width="100%" alt="To-Do List" src="ToDo.png" />
 
 ----
 <p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
